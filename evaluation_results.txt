@@ -1,0 +1,15 @@
+--- Model Performance ---
+MAE: 10.93
+RMSE: 13.94
+R2 Score: 0.53
+
+--- Feature Importance ---
+theater_year: 0.0939
+theater_month: 0.0500
+runtime_in_minutes: 0.1033
+tomatometer_rating: 0.4856
+tomatometer_count: 0.0938
+rating_encoded: 0.0290
+tomatometer_status_encoded: 0.0084
+studio_encoded: 0.0817
+genre_encoded: 0.0544
